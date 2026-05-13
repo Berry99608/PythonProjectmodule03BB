@@ -15,3 +15,4 @@ def soustraire(a,b)
     print(a-b)
 
 print("Hello! i'm Syndia")
+print(math.cos(56))
