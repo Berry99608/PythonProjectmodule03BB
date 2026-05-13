@@ -11,3 +11,6 @@ print(somme_chiffres(1234))
 print(somme_chiffres(123))
 print('salut')
 print('oui OUI')
+def soustraire(a,b)
+    print(a-b)
+
