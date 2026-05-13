@@ -10,3 +10,4 @@ def somme_chiffres(n):
 print(somme_chiffres(1234))
 print(somme_chiffres(123))
 print('salut')
+print('oui OUI')
